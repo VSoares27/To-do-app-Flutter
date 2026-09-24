@@ -1,0 +1,28 @@
+name: flutter_todo
+description: Mobile to-do app with SQLite persistence, categories, filters and local notifications.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^17.2.4
+  flutter_timezone: ^3.0.1
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  provider: ^6.1.2
+  intl: ^0.20.3
+  timezone: ^0.9.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
