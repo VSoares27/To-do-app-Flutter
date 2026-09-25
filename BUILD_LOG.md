@@ -4,6 +4,10 @@ Development history of the Flutter mobile to-do app. Entries are append-only:
 earlier entries are never rewritten, corrections are added as new entries.
 
 ---
+ 
+## AI Model Used
+
+Lovable
 
 ## Entry 1 — Platform clarification
 
